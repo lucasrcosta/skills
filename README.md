@@ -30,6 +30,7 @@ npx skills update
 
 | Skill | Description |
 | --- | --- |
+| [readback](skills/readback/SKILL.md) | Read your instruction back unambiguously before acting, ending on a yes/no confirmation |
 | [rewrite-history](skills/rewrite-history/SKILL.md) | Rewrite commit history on the current branch into a coherent didactic story with step-by-step commits |
 
 ## Adding a new skill
