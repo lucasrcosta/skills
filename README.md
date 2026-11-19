@@ -32,6 +32,7 @@ npx skills update
 | --- | --- |
 | [readback](skills/readback/SKILL.md) | Read your instruction back unambiguously before acting, ending on a yes/no confirmation |
 | [rewrite-history](skills/rewrite-history/SKILL.md) | Rewrite commit history on the current branch into a coherent didactic story with step-by-step commits |
+| [stay-in-your-lane](skills/stay-in-your-lane/SKILL.md) | Session-long flag: other agents share the branch, so leave their changes alone, commit only your own work, and stop on an overlap |
 
 ## Adding a new skill
 
